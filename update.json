@@ -1,6 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.3",
   "url": "",
-  "sha256": "cf5ea947b6a6feb0708a54c1b6ef91cb920db26008a3e492c3c121973579c2f9",
-  "notes": "Auto-update"
+  "sha256": "877d60f254de5af9ba4e66fe4be6112f2aa35096867946e1b5d60a517aee64c3",
+  "setup_url": "https://github.com/01010101010101000/heaplauncher-updater/releases/download/v1.4.3/heap%20Launcher%20Setup%201.4.3.exe",
+  "setup_sha256": "5cf50fe39063f92e17c5c2a35cc3c23eb8bc156ac46b1c1c99824468f4886e77",
+  "notes": "heap Launcher 1.4.3"
 }
