@@ -2,14 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
-
-
 ## Installation
   
-1. [Download heap Launcher Setup 1.4.6.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.6.exe).
+```bash
+1. Download heap Launcher Setup 1.4.6.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
-4. Run heap Launcher from the shortcut or its installation folder. 
+4. Run heap Launcher from the shortcut or its installation folder.
+``` 
 ## Features
 - Custom backgrounds, UI colours, and accent colours
 - Minecraft instance and version selection
@@ -23,7 +23,13 @@
 - Opens the official Minecraft Launcher for now whilst Microsoft azure approval is pending
 - Update notifications
 - Simple wizard setup
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 ## Contact
 
 
 [![Discord](https://img.shields.io/badge/@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa7-white?logo=discord)](https://discord.com/users/881474374413209610)
+
+
+
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
