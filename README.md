@@ -23,8 +23,8 @@
 - Opens the official Minecraft Launcher for now whilst Microsoft azure approval is pending
 - Update notifications
 - Simple wizard setup
-# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
-# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 
 ## Contact
 
