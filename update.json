@@ -1,8 +1,8 @@
 {
-  "version": "1.4.16",
+  "version": "1.4.17",
   "url": "",
-  "sha256": "9c17d86c4fc41614a020a16c194914799b6c13edf6088d2a15d1fe88aad76993",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.16.exe",
-  "setup_sha256": "afe076f55feffec7528b75564ad4e487013de015eff8b396df095fef87bbd3e4",
-  "notes": "heap Launcher 1.4.16: fixes first-time Minecraft Launcher sign-in and waits for the sign-in window to open."
+  "sha256": "deb988730adb01a3b533c443e715a13b41b5eb8ab3859fd2cce9dd5043b6f15c",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.17.exe",
+  "setup_sha256": "9e250906756645079f4a43ad02beaba38fe268c8e94f25a08490ec73aaac73e3",
+  "notes": "heap Launcher 1.4.17: fixes fresh Minecraft Launcher sign-in, verifies its window opens, and handles updater restarts."
 }
