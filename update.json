@@ -2,7 +2,7 @@
   "version": "1.4.18",
   "url": "",
   "sha256": "fa5d640d764120ee5de2d3aebdac02222798e933b64b61f5db7d012f09fb8a36",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.18.exe",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/38ab1c9/heap%20Launcher%20Setup%201.4.18.exe",
   "setup_sha256": "5ca4eaeb5328eeff912dd5f6f396c42ef1b87afe0708902b0fc538ebba5f0027",
   "notes": "heap Launcher 1.4.18: signed-in username, automatic sign-in window cleanup, and removal of Games from dashboard layout settings."
 }
