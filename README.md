@@ -34,6 +34,8 @@ Current version: **1.4.18**
 
 ## Version 1.4.18
 
+- Remove the unused Games entry from Dashboard layout settings.
+
 - Shows the signed-in Minecraft username in place of the sign-in button.
 - Detects completed sign-in and closes Heap’s managed Launcher window automatically after credentials finish saving.
 
