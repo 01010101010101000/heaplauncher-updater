@@ -29,7 +29,7 @@ Current version: **1.4.18**
 - Automatic Minecraft launch with the official Launcher authenticating in the background
 - Update notifications
 - Simple wizard setup
-# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
+# >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot]([https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&](https://cdn.discordapp.com/attachments/899312147262214197/1565937431784456332/image2.png?ex=6ae6b861&is=6ae566e1&hm=73d2fba1fcab852359efd13bf60e57e5b4051f7b785c7484424d97c2bfa7bab7&))
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 
 ## Version 1.4.18
