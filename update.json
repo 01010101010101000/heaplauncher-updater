@@ -1,8 +1,8 @@
 {
   "version": "1.4.18",
   "url": "",
-  "sha256": "fa5d640d764120ee5de2d3aebdac02222798e933b64b61f5db7d012f09fb8a36",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/38ab1c9/heap%20Launcher%20Setup%201.4.18.exe",
-  "setup_sha256": "5ca4eaeb5328eeff912dd5f6f396c42ef1b87afe0708902b0fc538ebba5f0027",
-  "notes": "heap Launcher 1.4.18: signed-in username, automatic sign-in window cleanup, and removal of Games from dashboard layout settings."
+  "sha256": "d3630e5bfd0371af19e6692312a829a21b8991989726c1eca02a5771ecabff6f",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/3bfa03397f401c7eff50238dbd6ae86bb1cc6194/heap%20Launcher%20Setup%201.4.18.exe",
+  "setup_sha256": "059fba0c1165401db4302a90d9cf8c2ecef27151f309097bc8f65ed96e93183a",
+  "notes": "heap Launcher 1.4.18: fixes detection and reuse of existing official Minecraft Launcher sign-in."
 }

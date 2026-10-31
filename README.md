@@ -4,7 +4,7 @@
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 Current version: **1.4.18**
 
-[Download heap Launcher Setup 1.4.18.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.18.exe)
+[Download heap Launcher Setup 1.4.18.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/3bfa03397f401c7eff50238dbd6ae86bb1cc6194/heap%20Launcher%20Setup%201.4.18.exe)
 
 ## Installation
   
