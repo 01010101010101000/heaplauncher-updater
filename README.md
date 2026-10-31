@@ -34,6 +34,10 @@ Current version: **1.4.18**
 
 ## Version 1.4.18
 
+- Detects existing official Launcher sign-in, including desktop profiles without an active-account ID.
+- Reuses saved official sign-in and closes an already-open Launcher UI before Minecraft starts.
+
+
 - Remove the unused Games entry from Dashboard layout settings.
 
 - Shows the signed-in Minecraft username in place of the sign-in button.
