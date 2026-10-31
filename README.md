@@ -2,10 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
+Current version: **1.4.15**
+
+[Download heap Launcher Setup 1.4.15.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.15.exe)
+
 ## Installation
   
 ```bash
-1. Download heap Launcher Setup 1.4.6.exe
+1. Download heap Launcher Setup 1.4.15.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
 4. Run heap Launcher from the shortcut or its installation folder.
@@ -15,16 +19,25 @@
 - Minecraft instance and version selection
 - Mod manager with enable, disable, search, and filters
 - Mod, modpack, resource pack, and shader browsing
-- Installed content management
+- Installed modpack, resource pack and shader management with artwork
+- Required-library warnings and compatible library downloads
+- Recoverable cleanup when four or more mods, resource packs or shaders are disabled
 - Fabric, Forge, NeoForge, and Quilt loader support
 - Mod compatibility and update options
 - Saved and global server browsing with live status
-- Playtime and server activity overview
-- Opens the official Minecraft Launcher for now whilst Microsoft azure approval is pending
+- Live session runtime, completed-session playtime and server activity overview
+- Automatic Minecraft launch with the official Launcher authenticating in the background
 - Update notifications
 - Simple wizard setup
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
+
+## Version 1.4.15
+
+- Retains session runtime after Minecraft closes and checks the real game process.
+- Adds required-mod downloads, pack artwork and disabled-item cleanup.
+- Removes warning-card subtext and the explanation below Sign-in source.
+- Keeps shader settings files out of installed packs.
 
 ## Contact
 

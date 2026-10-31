@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.15",
   "url": "",
-  "sha256": "87cb2b696d95626ce88502c265468c86975699099cff9f34ca052f30fdbef63d",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.6.exe",
-  "setup_sha256": "4bba7ca9d89b912a92e43fcda8b1b189d3e92162e750fdab4877f33dd0b200d6",
-  "notes": "heap Launcher 1.4.6"
+  "sha256": "17e368096d3d9b49b72202463c3769db422c7613bdb47507937f2e6bbd441c1d",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.15.exe",
+  "setup_sha256": "519b7e52955911f3cb95d51cee0ab4ef860d6b1a092407d3bce51c6979828462",
+  "notes": "heap Launcher 1.4.15: stable session runtime, required-library downloads, pack artwork and disabled-content cleanup."
 }
