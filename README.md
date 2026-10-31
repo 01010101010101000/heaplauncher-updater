@@ -2,14 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
-Current version: **1.4.17**
+Current version: **1.4.18**
 
-[Download heap Launcher Setup 1.4.17.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.17.exe)
+[Download heap Launcher Setup 1.4.18.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.18.exe)
 
 ## Installation
   
 ```bash
-1. Download heap Launcher Setup 1.4.17.exe
+1. Download heap Launcher Setup 1.4.18.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
 4. Run heap Launcher from the shortcut or its installation folder.
@@ -32,7 +32,10 @@ Current version: **1.4.17**
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565085197106421791/image1.png?ex=6ae39eac&is=6ae24d2c&hm=86f94239ef57f9ee0892a1edcca1dd89b345a86b253e96c5953e7beef0c93aee&)
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 
-## Version 1.4.17
+## Version 1.4.18
+
+- Shows the signed-in Minecraft username in place of the sign-in button.
+- Detects completed sign-in and closes Heap’s managed Launcher window automatically after credentials finish saving.
 
 - Handles updater restarts without reporting a false sign-in failure.
 
