@@ -2,14 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
-Current version: **1.4.18**
+Current version: **1.4.19**
 
-[Download heap Launcher Setup 1.4.18.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/3bfa03397f401c7eff50238dbd6ae86bb1cc6194/heap%20Launcher%20Setup%201.4.18.exe)
+[Download heap Launcher Setup 1.4.19.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.19.exe)
 
 ## Installation
   
 ```bash
-1. Download heap Launcher Setup 1.4.18.exe
+1. Download heap Launcher Setup 1.4.19.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
 4. Run heap Launcher from the shortcut or its installation folder.
@@ -32,26 +32,17 @@ Current version: **1.4.18**
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565937431784456332/image2.png?ex=6ae6b861&is=6ae566e1&hm=73d2fba1fcab852359efd13bf60e57e5b4051f7b785c7484424d97c2bfa7bab7&)
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
 
-## Version 1.4.18
+## Version 1.4.19
 
-- Detects existing official Launcher sign-in, including desktop profiles without an active-account ID.
-- Reuses saved official sign-in and closes an already-open Launcher UI before Minecraft starts.
+- Fixed light-mode surfaces, image backgrounds, controls and text contrast.
+- White glowing browser cards with translucent surfaces; removed the extra Details outline and launch tooltip.
+- Improved automatic sign-in completion and kept launch failures visible.
+- More native-memory headroom for Minecraft; clearer memory-crash messages.
+- Session runtime starts when the game is ready and excludes failed loading attempts.
+- Automatic Mod Menu integration for supported Fabric/Quilt versions.
+- Redesigned Outfit setup wizard with fixed buttons and shortcut controls.
 
-
-- Remove the unused Games entry from Dashboard layout settings.
-
-- Shows the signed-in Minecraft username in place of the sign-in button.
-- Detects completed sign-in and closes Heap’s managed Launcher window automatically after credentials finish saving.
-
-- Handles updater restarts without reporting a false sign-in failure.
-
-- Fixes first-time Minecraft Launcher sign-in by allowing its official updater to finish.
-- Shows opening progress and reports success only after the Launcher window appears.
-
-- Retains session runtime after Minecraft closes and checks the real game process.
-- Adds required-mod downloads, pack artwork and disabled-item cleanup.
-- Removes warning-card subtext and the explanation below Sign-in source.
-- Keeps shader settings files out of installed packs.
+Validated with 128 automated tests, all nine dashboard pages in light/dark modes, and installation of the packaged setup while preserving existing data.
 
 ## Contact
 
