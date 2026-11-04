@@ -2,14 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
-Current version: **1.4.19**
+Current version: **1.4.20**
 
-[Download heap Launcher Setup 1.4.19.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.19.exe)
+[Download heap Launcher Setup 1.4.20.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.20.exe)
 
 ## Installation
   
 ```bash
-1. Download heap Launcher Setup 1.4.19.exe
+1. Download heap Launcher Setup 1.4.20.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
 4. Run heap Launcher from the shortcut or its installation folder.
@@ -31,6 +31,10 @@ Current version: **1.4.19**
 - Simple wizard setup
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565937431784456332/image2.png?ex=6ae6b861&is=6ae566e1&hm=73d2fba1fcab852359efd13bf60e57e5b4051f7b785c7484424d97c2bfa7bab7&)
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
+
+## Version 1.4.20
+
+- Improved automatic Play detection and added a visible retry if the hidden launcher stalls.
 
 ## Version 1.4.19
 

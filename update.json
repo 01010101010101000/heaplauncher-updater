@@ -1,8 +1,8 @@
 {
-  "version": "1.4.19",
+  "version": "1.4.20",
   "url": "",
-  "sha256": "96c71eaa30329a1e4d0122fee7acdf41abb6569d09bba9de7b90ef515b327433",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/bb2bc910fbc15eb1480a5ca2ee271bf2bdf70e58/heap%20Launcher%20Setup%201.4.19.exe",
-  "setup_sha256": "f4ef2afb4b1980d86acde5b80ff4e42c27f74158ffe8e2f884b682d001d9408a",
-  "notes": "heap Launcher 1.4.19: fixed light mode; improved sign-in, launch diagnostics and native-memory headroom; session timing after loading; white translucent browser cards; refreshed setup wizard."
+  "sha256": "33cb5b92567d0a945e0b884b89b3cfb83d5e0abdfac9ad0378e247c585ea086e",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/c6504f378e88c3ce887ece6c2b924fa652c7e119/heap%20Launcher%20Setup%201.4.20.exe",
+  "setup_sha256": "8e72344b0bda2cb81d5d57b446c8f266f7d198d0981996617c1b07ca106cfca1",
+  "notes": "Heap Launcher 1.4.20: improved automatic Play detection and a visible retry when hidden startup stalls."
 }
