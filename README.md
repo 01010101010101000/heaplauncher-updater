@@ -2,14 +2,14 @@
 
 
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
-Current version: **1.4.20**
+Current version: **1.4.21**
 
-[Download heap Launcher Setup 1.4.20.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/main/heap%20Launcher%20Setup%201.4.20.exe)
+[Download heap Launcher Setup 1.4.21.exe](https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/3377ec2d347d4ab90ed80d46e7ce438fca7ccb4c/heap%20Launcher%20Setup%201.4.21.exe)
 
 ## Installation
   
 ```bash
-1. Download heap Launcher Setup 1.4.20.exe
+1. Download heap Launcher Setup 1.4.21.exe
 2. Open the setup wizard and choose an installation folder.
 3. Choose whether to create a desktop shortcut.
 4. Run heap Launcher from the shortcut or its installation folder.
@@ -31,6 +31,16 @@ Current version: **1.4.20**
 - Simple wizard setup
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<![Screenshot](https://cdn.discordapp.com/attachments/899312147262214197/1565937431784456332/image2.png?ex=6ae6b861&is=6ae566e1&hm=73d2fba1fcab852359efd13bf60e57e5b4051f7b785c7484424d97c2bfa7bab7&)
 # >━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<
+
+## Version 1.4.21
+
+- Add the optional Heap Client 0.6.5 preview for Fabric 26.2, with Combat and Hypixel categories.
+- Fix the held-item label with and without Iris shaders, including offhand items and maps.
+- Fix automatic launch from deeply nested Windows folders and explain Iris and Vitrail conflicts when detected.
+- Reduce background animation work, Windows process scans, and repeated HUD drawing.
+
+The client preview is available under Settings → Minecraft / Microsoft Account. It requires Minecraft 26.2, Fabric Loader 0.19.5 or later, Fabric API, and Java 25. Open the in-game menu with Right Shift.
+
 
 ## Version 1.4.20
 

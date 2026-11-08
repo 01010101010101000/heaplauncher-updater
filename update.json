@@ -1,8 +1,8 @@
 {
-  "version": "1.4.20",
+  "version": "1.4.21",
   "url": "",
-  "sha256": "33cb5b92567d0a945e0b884b89b3cfb83d5e0abdfac9ad0378e247c585ea086e",
-  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/c6504f378e88c3ce887ece6c2b924fa652c7e119/heap%20Launcher%20Setup%201.4.20.exe",
-  "setup_sha256": "8e72344b0bda2cb81d5d57b446c8f266f7d198d0981996617c1b07ca106cfca1",
-  "notes": "Heap Launcher 1.4.20: improved automatic Play detection and a visible retry when hidden startup stalls."
+  "sha256": "568645f28eac5a7e6dffe875be22ffb9eadeb64b81373fa9fc35de689037a81d",
+  "setup_url": "https://raw.githubusercontent.com/01010101010101000/heaplauncher-updater/3377ec2d347d4ab90ed80d46e7ce438fca7ccb4c/heap%20Launcher%20Setup%201.4.21.exe",
+  "setup_sha256": "5a8b2781199f86e8f005af33f60e297747f2bd731d3afd23cbb84b6013f8b63f",
+  "notes": "Heap Launcher 1.4.21 includes the optional Heap Client 0.6.5 preview, held-item HUD fixes, and more reliable Minecraft startup."
 }
